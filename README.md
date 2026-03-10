@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/🐛-Bug%20Hunter-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🤖-Test%20Automation-green?style=for-the-badge" />
 </p>
-<p align="center"?
+<p align="center"?>
   <img src="https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/katalon-cyan?style=for-the-badge" />

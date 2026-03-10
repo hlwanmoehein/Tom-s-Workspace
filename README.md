@@ -5,3 +5,4 @@
   <img src="https://img.shields.io/badge/🐛-Bug%20Hunter-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🤖-Test%20Automation-green?style=for-the-badge" />
 </p>
+<img src="https://img.shields.io/badge/Jmeter"/>

@@ -7,6 +7,6 @@
 </p>
 <p align="center"?>
   <img src="https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/katalon-cyan?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JMeter-D22128?logo=apache&logoColor=white" />
 </p>

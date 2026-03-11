@@ -8,9 +8,10 @@
 <p align="center"?>
   <img src="https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white" />
   <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white" />
+  <img src="(https://img.shields.io/badge/-JIRA-0052CC&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/-JMeter-D22128?logo=apache&logoColor=white" />
   <img src="https://img.shields.io/badge/-QASE-4B0082?&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Katalon-Studio&logo=katalon&logoColor=white" />
+  <img src="https://img.shields.io/badge/Katalon-1A6DFF?&logo=katalon&logoColor=white" />
   <img src="https://img.shields.io/badge/-Cucumber-BDD&logo=cucumber&logoColor=white" />
  
 </p>

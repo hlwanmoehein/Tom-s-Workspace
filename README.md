@@ -9,8 +9,8 @@
   <img src="https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white" />
   <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/-JMeter-D22128?logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/QASE-Test%2520Management-4B0082?style=for-the-badge&logo=qase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Katalon-Studio-1A2C3E?style=for-the-badge&logo=katalon&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cucumber-BDD-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-11%252F17-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/-QASE-4B0082?&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Katalon-Studio&logo=katalon&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Cucumber-BDD&logo=cucumber&logoColor=white" />
+ 
 </p>

@@ -59,7 +59,7 @@ into every stage of the software lifecycle.
 
 | Project | Description | Tools | Highlights |
 |---------|-------------|-------|------------|
-| [SauceDemo Testing](https://drive.google.com/drive/folders/1sqGmgLnhq5SgYgvgg6J45-J1ZbklhM7-?usp=drive_link) | Tested e-commerce demo site | Manual | 31 test cases, 4 bugs found |
+| [SauceDemo Testing (Web)](https://drive.google.com/drive/folders/1sqGmgLnhq5SgYgvgg6J45-J1ZbklhM7-?usp=drive_link) | Tested e-commerce demo site | Manual | 31 test cases, 4 bugs found |
 | [API Testing](link) | REST API validation | Postman, JSON | 40+ test scenarios |
 | [SQL Practice](link) | Database testing | MySQL | 20+ queries written |
 

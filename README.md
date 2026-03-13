@@ -28,11 +28,6 @@ development experience. Passionate about building quality
 into every stage of the software lifecycle.
 ---
 
-### 🛠️ Skills
-
-**Manual Testing**
-**Automation Testing**
-
 ## 🛠️ Tech Stack
 
 ### Testing Tools

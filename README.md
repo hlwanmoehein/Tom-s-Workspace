@@ -90,4 +90,19 @@ Fintech, Chatbot Training, Banking, Financial, Trading Market, Telecom Mobile Ap
 [![LINE](https://img.shields.io/badge/LINE-00C300?style=for-the-badge&logo=line&logoColor=white)](https://line.me/ti/p/290596100223)
 
 </div>
+
 ---
+
+<div align="center">
+
+### 🚀 "Quality is not an act. It's a habit." — Aristotle
+
+**Thanks for visiting my portfolio!**  
+I'm passionate about delivering bug-free software and continuous improvement.
+
+⭐️ *If you found this portfolio helpful, consider giving it a star!*
+
+*Last Updated: March 2026*
+
+</div>
+

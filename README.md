@@ -70,11 +70,11 @@ Fintech, Chatbot Training, Banking, Financial, Trading Market, Telecom Mobile Ap
 
 | Certificate | Issuing Organization | Date | Link | Preview |
 |-------------|---------------------|------|------|---------|
-| ISTQB Foundation Level V4 | Udemy (KBZ Bank QA Team) | December 2025 | [View PDF](https://drive.google.com/file/d/1HwQeXDcWK-GbuC91c-1q54IGWdM9pVwz/view?usp=drive_link) | <img src="https://github.com/hlwanmoehein/Tom-s-Workspace/blob/main/English%20Online%20Test%20Result.png" width="200">
+| ISTQB Foundation Level V4 | Udemy (KBZ Bank QA Team) | December 2025 | [View PDF](https://drive.google.com/file/d/1HwQeXDcWK-GbuC91c-1q54IGWdM9pVwz/view?usp=drive_link) | <img src="" width="200">
 | Master Performance Testing JMeter | Udemy (KBZ Bank QA Team) | November 2024 | [View PDF](https://drive.google.com/file/d/1ktA2PXOp99eIJkaKcB2D4F6k2-QvdPTD/view?usp=drive_link) | <img src="" width="200">
 | Introduction to 5G Network | MPT | May 2024 | [View PDF](https://drive.google.com/file/d/17rIaFi0q71tEkBjFdYFIC6o1muWf7kbC/view?usp=drive_link) | <img src="" width="200">
 | Writing in Business Communication | MPT | September 2024 | [View PDF](https://drive.google.com/file/d/1qGFxFQy1SxcDQSzj3jcYIc5NH5aK8yAW/view?usp=drive_link) | <img src="" width="200">
-| Essential in Business Career | Strategy First University | January 2020 | [View PDF](https://drive.google.com/file/d/1IQNSFal7j99Pfpsh9UMFiggASJX5TSvn/view?usp=drive_link) | <img src="" width="200">
+| Essential Skills for Business Career | Strategy First University | January 2020 | [View PDF](https://drive.google.com/file/d/1IQNSFal7j99Pfpsh9UMFiggASJX5TSvn/view?usp=drive_link) | <img src="https://github.com/hlwanmoehein/Tom-s-Workspace/blob/main/Essential%20Skills%20for%20Business%20Careers.png" width="200">
 | Dynamic Web Application Development with PHP & MySQL | Gusto | December 2014 | [View PDF](https://drive.google.com/file/d/18aqeVv0szcNJrxiJokRjR7lgAMoXQIJZ/view?usp=drive_link) | <img src="" width="200">
 | Basic Information Technology | KMD | September 2012 | [View PDF](https://drive.google.com/file/d/1dDoyYyErhfNigFCES5uksxH7KOqBk7tG/view?usp=drive_link) | <img src="" width="200">
 | English Level Test | British Council | January 2026 | [View PDF](https://drive.google.com/file/d/11iY9Dav2Z5c6BYpXywiQLBjJ4R9da5vD/view?usp=drive_link) | <img src="" width="200">

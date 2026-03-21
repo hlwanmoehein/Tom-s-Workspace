@@ -66,5 +66,18 @@ Fintech, Chatbot Training, Banking, Financial, Trading Market, Telecom Mobile Ap
 | [Tanzu Project Postman Testing (API)](https://drive.google.com/drive/folders/123C5Z-rRuHm0WhfIJFmqMrETLPkFvTXy) | API Testing Report | Postman using newsman | KBZ project (Tanzu) |
 | [Tanzu Project Jmeter Load Testing (Jmeter)](https://drive.google.com/drive/folders/1ELaRGFUL6ItFr7HbeanRGCr8mfhlay9Y) | Jmeter Load Testing Report | Jmeter with HTML report | KBZ project (Tanzu) |
 
+# 📜 Certificates & Achievements
+
+| Certificate | Issuing Organization | Date | Link |
+|-------------|---------------------|------|------|
+| ISTQB Foundation Level V4 | Udemy (KBZ Bank QA Team) | December 2025 | [View PDF](./ISTQB-Foundation-Level.pdf) |
+| Master Performance Testing JMeter | Udemy (KBZ Bank QA Team) | November 2024 | [View PDF](./Postman-API-Testing.pdf) |
+| Introduction to 5G Network | MPT | May 2024 | [View PDF](./Selenium-Java-Certificate.pdf) |
+| Writing in Business Communication | MPT | September 2024 | [View PDF](./JMeter-Certificate.pdf) |
+| Essential in Business Career | Strategy First University | January 2020 | [View PDF](./JMeter-Certificate.pdf) |
+| Dynamic Web Application Development with PHP & MySQL | Gusto | December 2014 | [View PDF](./JMeter-Certificate.pdf) |
+| Basic Information Technology | KMD | September 2012 | [View PDF](./JMeter-Certificate.pdf) |
+| English Level Test | British Council | January 2026 | [View PDF](./JMeter-Certificate.pdf) |
+
 
 ---

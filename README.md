@@ -70,7 +70,7 @@ Fintech, Chatbot Training, Banking, Financial, Trading Market, Telecom Mobile Ap
 
 | Certificate | Issuing Organization | Date | Link | Preview |
 |-------------|---------------------|------|------|---------|
-| ISTQB Foundation Level V4 | Udemy (KBZ Bank QA Team) | December 2025 | [View PDF](https://drive.google.com/file/d/1HwQeXDcWK-GbuC91c-1q54IGWdM9pVwz/view?usp=drive_link) | 
+| ISTQB Foundation Level V4 | Udemy (KBZ Bank QA Team) | December 2025 | [View PDF](https://drive.google.com/file/d/1HwQeXDcWK-GbuC91c-1q54IGWdM9pVwz/view?usp=drive_link) | <img src="./certificates/images/istqb-certificate.png" width="200">
 | Master Performance Testing JMeter | Udemy (KBZ Bank QA Team) | November 2024 | [View PDF](https://drive.google.com/file/d/1ktA2PXOp99eIJkaKcB2D4F6k2-QvdPTD/view?usp=drive_link) |
 | Introduction to 5G Network | MPT | May 2024 | [View PDF](https://drive.google.com/file/d/17rIaFi0q71tEkBjFdYFIC6o1muWf7kbC/view?usp=drive_link) |
 | Writing in Business Communication | MPT | September 2024 | [View PDF](https://drive.google.com/file/d/1qGFxFQy1SxcDQSzj3jcYIc5NH5aK8yAW/view?usp=drive_link) |

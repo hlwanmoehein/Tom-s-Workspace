@@ -61,6 +61,6 @@ into every stage of the software lifecycle.
 |---------|-------------|-------|------------|
 | [SauceDemo Testing (Web)](https://drive.google.com/drive/folders/1sqGmgLnhq5SgYgvgg6J45-J1ZbklhM7-?usp=drive_link) | Tested e-commerce demo site | Manual | 31 test cases, 4 bugs found |
 | [Instagram GIF Function (Mobile)](https://drive.google.com/drive/folders/1MZP7OmerBucvl-s9JLqxnVQcbIkeEVLY) | Tester Work Project | Mobile Testing | 6 test cases, the rest test case are feed back |
-| [SQL Practice](link) | Database testing | MySQL | 20+ queries written |
+| [Tanzu Project Postman Testing] (API)(https://drive.google.com/file/d/1BJ5dOY3_Trzedc0aecsKQy7fEzOa_Fl5/view?usp=sharing) | API Testing Report | Postman using newsman | KBZ project (Tanzu) |
 
 ---

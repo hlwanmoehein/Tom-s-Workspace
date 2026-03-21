@@ -54,6 +54,8 @@ into every stage of the software lifecycle.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+### Experienced Project
+Fintech, Chatbot Training, Banking, Financial, Trading Market, Telecom Mobile App, HR, Payroll
 
 ### 📂 Projects
 

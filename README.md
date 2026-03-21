@@ -70,14 +70,14 @@ Fintech, Chatbot Training, Banking, Financial, Trading Market, Telecom Mobile Ap
 
 | Certificate | Issuing Organization | Date | Link |
 |-------------|---------------------|------|------|
-| ISTQB Foundation Level V4 | Udemy (KBZ Bank QA Team) | December 2025 | [View PDF](./ISTQB-Foundation-Level.pdf) |
-| Master Performance Testing JMeter | Udemy (KBZ Bank QA Team) | November 2024 | [View PDF](./Postman-API-Testing.pdf) |
-| Introduction to 5G Network | MPT | May 2024 | [View PDF](./Selenium-Java-Certificate.pdf) |
-| Writing in Business Communication | MPT | September 2024 | [View PDF](./JMeter-Certificate.pdf) |
-| Essential in Business Career | Strategy First University | January 2020 | [View PDF](./JMeter-Certificate.pdf) |
-| Dynamic Web Application Development with PHP & MySQL | Gusto | December 2014 | [View PDF](./JMeter-Certificate.pdf) |
-| Basic Information Technology | KMD | September 2012 | [View PDF](./JMeter-Certificate.pdf) |
-| English Level Test | British Council | January 2026 | [View PDF](./JMeter-Certificate.pdf) |
+| ISTQB Foundation Level V4 | Udemy (KBZ Bank QA Team) | December 2025 | [View PDF](https://drive.google.com/file/d/1HwQeXDcWK-GbuC91c-1q54IGWdM9pVwz/view?usp=drive_link) |
+| Master Performance Testing JMeter | Udemy (KBZ Bank QA Team) | November 2024 | [View PDF](https://drive.google.com/file/d/1ktA2PXOp99eIJkaKcB2D4F6k2-QvdPTD/view?usp=drive_link) |
+| Introduction to 5G Network | MPT | May 2024 | [View PDF](https://drive.google.com/file/d/17rIaFi0q71tEkBjFdYFIC6o1muWf7kbC/view?usp=drive_link) |
+| Writing in Business Communication | MPT | September 2024 | [View PDF](https://drive.google.com/file/d/1qGFxFQy1SxcDQSzj3jcYIc5NH5aK8yAW/view?usp=drive_link) |
+| Essential in Business Career | Strategy First University | January 2020 | [View PDF](https://drive.google.com/file/d/1IQNSFal7j99Pfpsh9UMFiggASJX5TSvn/view?usp=drive_link) |
+| Dynamic Web Application Development with PHP & MySQL | Gusto | December 2014 | [View PDF](https://drive.google.com/file/d/18aqeVv0szcNJrxiJokRjR7lgAMoXQIJZ/view?usp=drive_link) |
+| Basic Information Technology | KMD | September 2012 | [View PDF](https://drive.google.com/file/d/1dDoyYyErhfNigFCES5uksxH7KOqBk7tG/view?usp=drive_link) |
+| English Level Test | British Council | January 2026 | [View PDF](https://drive.google.com/file/d/11iY9Dav2Z5c6BYpXywiQLBjJ4R9da5vD/view?usp=drive_link) |
 
 
 ---
